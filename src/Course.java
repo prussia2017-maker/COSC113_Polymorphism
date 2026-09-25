@@ -39,3 +39,5 @@ public class Course {
         System.out.println("Course name: " + this.name + " Course number" + this.course_number);
     }
 }
+
+1
