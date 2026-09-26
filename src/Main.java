@@ -25,6 +25,11 @@ public class Main {
 
         arturo.enrolled_courses[0] = math141;
         //Lab-work: Populate index 1 to 4 with the other course references
+        arturo.enrolled_courses[1] = frac;
+        arturo.enrolled_courses[2] = cosc107;
+        arturo.enrolled_courses[3] = eng102;
+        arturo.enrolled_courses[4] = soc101;
+
 
         BSU_Member[] members = new BSU_Member[10];
 

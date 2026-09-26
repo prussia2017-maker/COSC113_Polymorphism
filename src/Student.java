@@ -12,9 +12,9 @@ public class Student extends BSU_Member{
         this.status = "Student";
     }
 
-    // Lab-work: Create a getter method for enrolled_courses attribute 123
+    // Lab-work: Create a getter method for enrolled_courses attribute
 
-    public Course[] get_Enrolled_Courses(){
+    public Course[] getEnrolledCourses(){
 
         return this.enrolled_courses;
     }
